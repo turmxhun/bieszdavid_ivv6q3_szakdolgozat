@@ -308,6 +308,7 @@
 -analyzer:"D:/UnityEditor/2022.3.18f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/UnityEditor/2022.3.18f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/CameraController.cs"
+"Assets/Scripts/CameraControllerBase.cs"
 "Assets/Scripts/CompareHUD.cs"
 "Assets/Scripts/CompareSimController.cs"
 "Assets/Scripts/CompCameraController.cs"
