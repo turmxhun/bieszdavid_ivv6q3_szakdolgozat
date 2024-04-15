@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TwoBodyUnity\\twobody\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\singlesimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singlesimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\planetmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planetmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\Tests\\PhysicsEngineTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Tests\\PhysicsEngineTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\customtrailrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customtrailrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\physicsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\physicsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\cameracontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\simulationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simulationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\comparesimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comparesimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\compcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\compcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\odesolvers\\odesolverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\odesolvers\\odesolverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\physicsenginecomp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\physicsenginecomp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\splitscreencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\splitscreencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\graphdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\graphdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\comparehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comparehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\odesolvers\\odesolverrk4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\odesolvers\\odesolverrk4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|D:\\TwoBodyUnity\\twobody\\assets\\scripts\\odesolvers\\odesolverameuler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E251ED6-CDB5-5672-357A-2D26EC78105F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\odesolvers\\odesolverameuler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhysicsEngineTest.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\Tests\\PhysicsEngineTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tests\\PhysicsEngineTest.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\Tests\\PhysicsEngineTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tests\\PhysicsEngineTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:08:33.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhysicsEngine.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\PhysicsEngine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PhysicsEngine.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\PhysicsEngine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PhysicsEngine.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAQwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:48:33.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraControllerBase.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CameraControllerBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraControllerBase.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CameraControllerBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraControllerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:52:44.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ODESolverBase.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\ODESolvers\\ODESolverBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ODESolvers\\ODESolverBase.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\ODESolvers\\ODESolverBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ODESolvers\\ODESolverBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:50:29.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SplitScreenController.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\SplitScreenController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SplitScreenController.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\SplitScreenController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SplitScreenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:29:00.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GraphDrawer.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\GraphDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GraphDrawer.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\GraphDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GraphDrawer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:42:17.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomTrailRenderer.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CustomTrailRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomTrailRenderer.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CustomTrailRenderer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomTrailRenderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:33:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\Planet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planet.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\Planet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:45:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanetMenu.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\PlanetMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlanetMenu.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\PlanetMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlanetMenu.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:45:01.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingleSimController.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\SingleSimController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SingleSimController.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\SingleSimController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SingleSimController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:18:08.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompareSimController.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CompareSimController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CompareSimController.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CompareSimController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CompareSimController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:19:18.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhysicsEngineComp.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\PhysicsEngineComp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PhysicsEngineComp.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\PhysicsEngineComp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PhysicsEngineComp.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:11:44.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompCameraController.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CompCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CompCameraController.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CompCameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CompCameraController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAIAywFwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:45:24.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CompareHUD.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CompareHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CompareHUD.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CompareHUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CompareHUD.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:04:52.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ODESolverRK4.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\ODESolvers\\ODESolverRK4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ODESolvers\\ODESolverRK4.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\ODESolvers\\ODESolverRK4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ODESolvers\\ODESolverRK4.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:39:34.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ODESolverAMEuler.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\ODESolvers\\ODESolverAMEuler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ODESolvers\\ODESolverAMEuler.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\ODESolvers\\ODESolverAMEuler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ODESolvers\\ODESolverAMEuler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:05:16.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:12:05.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HUDController.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\HUDController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUDController.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\HUDController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUDController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwCkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:48:33.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SimulationControl.cs",
+              "DocumentMoniker": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\SimulationControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimulationControl.cs",
+              "ToolTip": "D:\\TwoBodyUnity\\twobody\\Assets\\Scripts\\SimulationControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimulationControl.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwCAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:48:33.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
